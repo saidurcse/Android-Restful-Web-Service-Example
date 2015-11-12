@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android_Projects\Android_Sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Android\NewRestApi\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-46a9e288bfd74355a967cda6a0b2c75306d833ce.jar" />
+    </item>
+    <item
+        jar="E:\Android\NewRestApi\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Android\NewRestApi\app\build\intermediates\pre-dexed\debug\classes-32b9ddb269e3bf4ccad23f0e2d5cdd0385263667.jar" />
+    </item>
+    <item
+        jar="E:\Android\NewRestApi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Android\NewRestApi\app\build\intermediates\pre-dexed\debug\classes-cc4212c612f2a81d120388cfa18ee869a5f7109c.jar" />
+    </item>
+    <item
+        jar="E:\Android\NewRestApi\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Android\NewRestApi\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-120aa1feecf6dfa88e07be8ae7cf3dde42244db5.jar" />
+    </item>
+
+</items>

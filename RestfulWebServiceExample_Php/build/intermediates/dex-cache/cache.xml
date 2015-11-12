@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\RestfulWebServiceExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Android\RestfulWebServiceExample\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-35426a8262e7d1ea3aabb1f21c6f8bc23120be34.jar" />
+    </item>
+    <item
+        jar="E:\Android_Projects\Android_Sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Android\RestfulWebServiceExample\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-46a9e288bfd74355a967cda6a0b2c75306d833ce.jar" />
+    </item>
+    <item
+        jar="E:\Android\RestfulWebServiceExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Android\RestfulWebServiceExample\app\build\intermediates\pre-dexed\debug\classes-44e47c8c6c4a89c735624bac64ff2434bb945e02.jar" />
+    </item>
+    <item
+        jar="E:\Android\RestfulWebServiceExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Android\RestfulWebServiceExample\app\build\intermediates\pre-dexed\debug\classes-630940d967a9b6845a3371cea1c8d2f71531ec4e.jar" />
+    </item>
+
+</items>
